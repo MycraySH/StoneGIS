@@ -1,0 +1,13 @@
+---
+title: "Stone Shi"
+---
+  
+<center>
+# Hi, I am Stone Shi, 
+# A second year student in the best GIS major in UCSB.
+</center>
+<i class="fas fa-address-card fa-3x"></i>
+
+I am a sophomore at [UCSB](https://www.ucsb.edu/) , majoring in GIS. My hometown is [Gaobeidian, Hebei, China](https://en.wikipedia.org/wiki/Gaobeidian), a small town with comfortable living quality.
+[GEOG176A](https://github.com/mikejohnson51/geog176A) was my first Upper Division major course.It is completely different from the lower division courses, and I am trying to overcome all the difficulties. The instructor, [Mike Johnson](https://geog.ucsb.edu/graduate-students/) helped me a lot in his office hours. Using programming to analyze geographic data is a necessary skill for GIS practitioners.
+![](img/Profile.jpg)
