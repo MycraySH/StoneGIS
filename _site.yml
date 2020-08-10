@@ -1,0 +1,21 @@
+name: "first-website"
+output_dir: "."
+navbar:
+  title: "Stone Shi's First Webpage"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "GIS Work"
+      icon: fa-map
+      href: geog176A.html
+    - text: "My CV"
+      icon: fa-file-alt
+      href: CV.html
+  right:
+    - text: "Github"
+      icon: fa-github
+      href: https://github.com/MycraySH
+output:
+  html_document:
+    theme: sandstone
