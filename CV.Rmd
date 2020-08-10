@@ -1,0 +1,40 @@
+---
+title: "Stone Shi"
+---
+
+<i class="fas fa-user-ninja fa-2x"></i>
+
+### Profile
+A young woman who wants to make a contribution to society. 
+An indie music lover. 
+
+<i class="fas fa-user-graduate fa-2x"></i>
+
+### Education
+-[University of California, Santa Barbara](https://www.ucsb.edu/) **2019-2023**
+
+ GIS major
+ 
+ College of Letter and Science
+ 
+ Dean's Honor
+
+-[Shijiazhuang No.2 Middle School](http://www.sjzez.com/) **2015-2018**
+
+ Deputy Director, Technology Division, SE Model United Nations
+
+<i class="fas fa-briefcase fa-2x"></i>
+
+### Experience
+-[UCSB Chinese Student Association](https://www.facebook.com/csa.ucsb.1) **2019-Present**
+
+ Leader of the Design Group
+ 
+-[United Nations Development Programme](https://www.undp.org/) **2018**
+
+ Volunteer
+ 
+-[State of the Map 2020](https://2020.stateofthemap.org/) **2020**
+
+ Volunteer
+ 
