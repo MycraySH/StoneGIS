@@ -14,24 +14,36 @@ In the summer session B of 2020 I took a class GIS course, GEOG 176A, based in R
 - Get familiar with Rstudio and Github.
 - A good startup of GIS upper division courses
 
+
 ### [LAB 2:COVID-19 Cases Data Wrangling](https://mycraysh.github.io/geog-176A-labs/lab-02.html)
 
 - I used the knitr command to create the table
 - Also used ggplot command to visualize my data
 - I learned how to complete dataframe manipulation and joining datasets.
 
-### [LAB 3:COVID-19 Cases Data Wrangling](https://mycraysh.github.io/geog-176A-labs/lab-03.html)
+![](img/lab2.png){width="75%"}
+
+### [LAB 3:Distances and the Border Zone](https://mycraysh.github.io/geog-176A-labs/lab-03.html)
 
 - I
 
-### [LAB 4:COVID-19 Cases Data Wrangling](https://mycraysh.github.io/geog-176A-labs/lab-04.html)
+
+![](img/lab3.png){width="75%"}
+
+### [LAB 4:Tesselations, Point-in-Polygon](https://mycraysh.github.io/geog-176A-labs/lab-04.html)
 
 - I
 
-### [LAB 5:COVID-19 Cases Data Wrangling](https://mycraysh.github.io/geog-176A-labs/lab-05.html)
+![](img/lab4.png){width="75%"}
+
+### [LAB 5:Rasters and Remote Sensing](https://mycraysh.github.io/geog-176A-labs/lab-05.html)
 
 - I
 
-### [LAB 6:COVID-19 Cases Data Wrangling](https://mycraysh.github.io/geog-176A-labs/lab-06.html)
+![](img/lab5.png){width="75%"}
+
+### [LAB 6:Flood Risk in Mission Creek: Past, Present, Future](https://mycraysh.github.io/geog-176A-labs/lab-06.html)
 
 - I
+
+![](img/lab6.png){width="75%"}

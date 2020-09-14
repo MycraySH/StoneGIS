@@ -2,6 +2,10 @@
 title: "Stone Shi"
 ---
 
+#### tongshi@ucsb.edu | https://github.com/MycraySH
+
+
+
 <i class="fas fa-user-ninja fa-2x"></i>
 
 ### Profile
@@ -12,10 +16,12 @@ An indie music lover.
 
 ### Education
 -[University of California, Santa Barbara](https://www.ucsb.edu/) **2019-2023**
-
- GIS major
  
  College of Letter and Science
+ 
+ Bachelor of Art, GIS
+ 
+ Minor in Urban and Architecture History
  
  Dean's Honor
 
@@ -36,5 +42,20 @@ An indie music lover.
  
 -[State of the Map 2020](https://2020.stateofthemap.org/) **2020**
 
- Volunteer
+ Voluntary host
+ 
+### Skills
+
+- Graphic Design
+
+ - Adobe Photoshop
+ 
+ - Adobe Illustrator
+
+
+- GIS Map Analysis
+
+ - GIS in R
+ 
+ - Mapbox
  
