@@ -4,13 +4,34 @@ title: "Projects"
 
 In the summer session B of 2020 I took a class GIS course, GEOG 176A, based in R. I wrote some code, and did some cool data science. Here is a collection of links! 
 
-<i class="fas fa-link fa-3x" style="color:green;"></i>
+<i class="fas fa-link fa-2x" style="color:navy;"></i>
 
-## [Building a project website](index.html)
+### [LAB 1:Building a project website](index.html)
 
 - I built my own webpage in this project with Rmarkdown and Rstudio.
 - In this assignment we built a static users site with Github Pages 
 - Includes a github repo and repository for access to all the code in my project.
 - Get familiar with Rstudio and Github.
 - A good startup of GIS upper division courses
-- Look at how high quality my work is!
+
+### [LAB 2:COVID-19 Cases Data Wrangling](https://mycraysh.github.io/geog-176A-labs/lab-02.html)
+
+- I used the knitr command to create the table
+- Also used ggplot command to visualize my data
+- I learned how to complete dataframe manipulation and joining datasets.
+
+### [LAB 3:COVID-19 Cases Data Wrangling](https://mycraysh.github.io/geog-176A-labs/lab-03.html)
+
+- I
+
+### [LAB 4:COVID-19 Cases Data Wrangling](https://mycraysh.github.io/geog-176A-labs/lab-04.html)
+
+- I
+
+### [LAB 5:COVID-19 Cases Data Wrangling](https://mycraysh.github.io/geog-176A-labs/lab-05.html)
+
+- I
+
+### [LAB 6:COVID-19 Cases Data Wrangling](https://mycraysh.github.io/geog-176A-labs/lab-06.html)
+
+- I
