@@ -25,25 +25,37 @@ In the summer session B of 2020 I took a class GIS course, GEOG 176A, based in R
 
 ### [LAB 3:Distances and the Border Zone](https://mycraysh.github.io/geog-176A-labs/lab-03.html)
 
-- I
+- Filter and plot the data based on the distance to a certain location
+- Use ggrepl to label significant features and locations
+- Split a portion of the data in a table to form a new table
 
 
 ![](img/lab3.png){width="75%"}
 
 ### [LAB 4:Tesselations, Point-in-Polygon](https://mycraysh.github.io/geog-176A-labs/lab-04.html)
 
-- I
+- Learned different ways of tessellation, triangles, hexagon, Voroni, and squares
+
+- And the impact of these tessellations on data computation
+
+- The distribution and use of dams in the United States
 
 ![](img/lab4.png){width="75%"}
 
 ### [LAB 5:Rasters and Remote Sensing](https://mycraysh.github.io/geog-176A-labs/lab-05.html)
 
-- I
+- Basic knowledge of remote sensing technology
+- The data of multiband Raster Files comes from different bands of light
+- Different geographical features can be highlighted by selecting some bands of color
 
 ![](img/lab5.png){width="75%"}
 
 ### [LAB 6:Flood Risk in Mission Creek: Past, Present, Future](https://mycraysh.github.io/geog-176A-labs/lab-06.html)
 
-- I
+- It is the first time to make dynamic flood change plot
+
+- Further use raster and vector data in multiple layers for analysis
+
+- Created my first Flood Inundation Map (FIM) Library
 
 ![](img/lab6.png){width="75%"}
