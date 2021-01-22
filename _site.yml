@@ -1,14 +1,17 @@
 name: "first-website"
 output_dir: "."
 navbar:
-  title: "Stone Shi's First Webpage"
+  title: "Stone Shi's GIS Webpage"
   left:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "GIS Work"
+    - text: "GIS Work GEOG176A"
       icon: fa-map
       href: geog176A.html
+    - text: "Cartography GEOG183"
+      icon: fa-map
+      href: geog183.html
     - text: "My CV"
       icon: fa-file-alt
       href: CV.html
