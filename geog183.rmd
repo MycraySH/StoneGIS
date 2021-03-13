@@ -34,3 +34,17 @@ title: "Projects of GEOG 183 Cartography"
 ## Lab 4
 
 ![](img/StoneShiAssignment4.png)
+
+<br />
+
+## Lab 5
+
+![](img/StoneShiAssignment5.png)
+
+<br />
+
+## Final project
+
+![](img/StoneShiFinalProject.png)
+
+<br />

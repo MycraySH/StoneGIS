@@ -57,5 +57,11 @@ An indie music lover.
 
  - GIS in R
  
+ -ArcGIS
+ 
+ -Qgis
+ 
+ -ENVI
+ 
  - Mapbox
  
